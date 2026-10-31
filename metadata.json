@@ -1,0 +1,6 @@
+{
+  "name": "Smart Passport Navigator",
+  "description": "High-trust civic tech design system and interactive guidance engine for passport applications (IMPACTX 2026 Challenge 06).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
